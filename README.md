@@ -1,4 +1,4 @@
-# template-vanilla
+# js-basic-initials-fix-reference-error
 
 ## Code have reference errors. You should fix all of this and functionality should works correctly
 - Check names of variables and functions
