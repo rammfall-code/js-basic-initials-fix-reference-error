@@ -1,8 +1,7 @@
 # template-vanilla
 
-## Text
-
-## We have a problem with loading script and access to html element due loading. Please, fix the place of script in html file
+## Code have reference errors. You should fix all of this and functionality should works correctly
+- Check names of variables and functions
 
 ## Criteria:
 
